@@ -1,6 +1,6 @@
 # Hi There 👋
 
-Passionate about Computer Science and its fundamentals, from backend systems to low-level programming. Currently working at [Vertex Corporation](https://www.vertexishere.com).
+Passionate about Computer Science and its fundamentals, from backend systems to low-level programming.
 
 &nbsp;
 
