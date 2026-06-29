@@ -1,7 +1,6 @@
 # Hi There 👋
 
 Passionate about Computer Science and its fundamentals, from backend systems to low-level programming.
-
 &nbsp;
 
 <!-- TOP_REPOS_START -->
